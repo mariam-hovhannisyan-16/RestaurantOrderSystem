@@ -22,8 +22,8 @@ public interface Commands {
         System.out.println("Please input" + CHANGE_DISH + "for change dish.");
         System.out.println("Please input" + ADD_CUSTOMER + "for add customer.");
         System.out.println("Please input" + PRINT_CUSTOMER + "for print customer.");
-        System.out.println("Please input" + CREATE_NEW_ORDERS + "for create.");
-        System.out.println("Please input" + PRINT_ALL_ORDERS + "for .");
+        System.out.println("Please input" + CREATE_NEW_ORDERS + "for create new orders.");
+        System.out.println("Please input" + PRINT_ALL_ORDERS + "for print all orders.");
         System.out.println("Please input" + PRINT_ALL_ORDERS_BY_CUSTOMER + "for print all orders by customer.");
         System.out.println("Please input" + ORDER_INFORMATION + "for order information.");
         System.out.println("Please input" + CHANGE_ORDER_STATUS + "for change order status.");
